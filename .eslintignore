@@ -1,0 +1,8 @@
+android/
+ios/
+server/
+node_modules/
+images/
+Project PFD/
+.gradle-cache/
+.android-user/
